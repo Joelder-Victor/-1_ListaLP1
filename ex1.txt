@@ -1,0 +1,7 @@
+a) Classe é um molde um modelo, um prototipo a partir do qual os objetos podem ser criados, também pode ser vista como um tipo definido pelo programador.
+Já os objetos são criados a partir das classes.
+
+b)São métodos especiais invocados no momento da criação dos objetos, basicamente o construtor é utilizado para inicilaizar o objeto.
+
+c) os benefícios do encapsulamento é o proteger os atributos da classe. 
+Por exemplo se eu deixo os atributos da minha classe no modo privado, outra classe não pode acessar diretamente os meus atributos.
